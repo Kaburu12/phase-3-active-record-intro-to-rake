@@ -35,4 +35,4 @@ task :environment do
 end
 
 # Let's check to see that we did in fact successfully migrate and seed our database:
-Student.all
+# Student.all
